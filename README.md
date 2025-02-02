@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directorty Home Lab</b>
+  - [Active Directory Home Lab](https://github.com/SithariniNW/Active_Directory_Project)
 
 <h2> 🤳 Connect with me:</h2>
 
