@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/joshmadakor1">Hi, I'm Sitharini! <br/> <a href="www.linkedin.com/in/sitharini-wewalwala-8317a9264">Cybersecurity Student</a>
+<h1><a href="">Hi, I'm Sitharini! <br/> <a href="www.linkedin.com/in/sitharini-wewalwala-8317a9264">Cybersecurity Student</a>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
