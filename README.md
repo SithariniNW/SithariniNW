@@ -3,8 +3,6 @@
 <h2>About Me</h2>
 I am currently a final-year student at the University of Technology, Sydney. Studying for a bachelor's in cybersecurity. I finished my secondary education at Musaeus College, Colombo. Then I enrolled at UTS College Sri Lanka to pursue UTS Foundation studies and a Diploma in Information Technology, which became my pathway to UTS in Sydney.
 
-<br>So far, I have acquired many skills through both my foundation and diploma courses, such as digital communication, English proficiency, voice coaching, and reflective writing. In addition to that, I also have fundamental knowledge of databases, networks, programming, and information systems.
-
 My goal is to complete my degree at UTS and become a professional in the field of cybersecurity as a SOC or cybersecurity analyst.
 
 <h2>👨‍💻 Personal Projects:</h2>
