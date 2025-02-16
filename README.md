@@ -11,7 +11,7 @@ My goal is to complete my degree at UTS and become a professional in the field o
   - [Active Directory Home Lab](https://github.com/SithariniNW/Active_Directory_Project)
  
 - <b>SIEM Configuration with Azure</b>
-  - [Active Directory Home Lab](https://github.com/SithariniNW/SIEM_Azure-Set-up)
+  - [SIEM Configuration with Azure](https://github.com/SithariniNW/SIEM_Azure-Set-up)
 
 <h2> 🤳 Connect with me:</h2>
 
