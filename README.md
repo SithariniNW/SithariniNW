@@ -9,6 +9,9 @@ My goal is to complete my degree at UTS and become a professional in the field o
 
 - <b>Active Directorty Home Lab</b>
   - [Active Directory Home Lab](https://github.com/SithariniNW/Active_Directory_Project)
+ 
+- <b>SIEM Configuration with Azure</b>
+  - [Active Directory Home Lab](https://github.com/SithariniNW/Active_Directory_Project)
 
 <h2> 🤳 Connect with me:</h2>
 
